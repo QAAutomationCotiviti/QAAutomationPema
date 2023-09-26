@@ -11,7 +11,7 @@ import java.util.List;
 //for sorting array list
 import java.util.ArrayList;
 
-public class LoginAndListProducts {
+public class ListSorting {
 
     public static void main(String[] args) {
 
