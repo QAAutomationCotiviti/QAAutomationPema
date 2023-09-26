@@ -57,9 +57,11 @@ public class removeFromCart{
         driver.manage().window().maximize();
         driver.get("https://www.saucedemo.com/");
 
-        Sorting obj = new Sorting();
+//        Sorting obj = new Sorting();
+        removeFromCart myObj = new removeFromCart();
 
-        obj.newfunction("standard_user","secret_sauce");
+        myObj.newfunction("standard_user","secret_sauce");
+//        myObj.newfunction("standard_user","secret_sauce");
 
     } }
 
